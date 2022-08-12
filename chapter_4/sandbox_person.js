@@ -1,6 +1,6 @@
 const ul = document.querySelector(".people");
 
-people = ["mario", "luigi", "toad", "ryu"];
+c
 
 let html = ``;
 
